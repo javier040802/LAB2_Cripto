@@ -1,0 +1,1 @@
+Para ejecutar el código de pyhton en Ubuntu se uso './dvwa_bruteforce.py   --url http://localhost:80/dvwa/vulnerabilities/brute/   --users users.txt   --passwords passwords.txt   --session einhh938rv98lbecfbs8f3lpm5 --fail-string "username and/or password incorrect."' , pero antes se necesito entregarle mas permisos con el siguiente comando 'chmod +x dvwa_bruteforce.py'.
